@@ -1,5 +1,4 @@
 # Appointment_Scheduler
-Appointment Scheduler (Python)
 A simple and beginner-friendly Python project for managing appointments using SQLite.
 #Features:
 1)Add patients
